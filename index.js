@@ -1,5 +1,5 @@
 
-const element = document.getElementById("btn");
+const element = document.getElementById("allo");
 
 const inputTest = document.getElementById("test");
 
